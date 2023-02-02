@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241928502966",
+    "project_id": "quickchat-5721a",
+    "storage_bucket": "quickchat-5721a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241928502966:android:e9cef19976e37cb8e3f017",
+        "android_client_info": {
+          "package_name": "com.debmalya.quickchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241928502966-73nbc9u2llvif1v1mj6u2p6hqt8nue40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHglTsQICH-AkfK_U0V3PxIRVe6PVR2aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241928502966-73nbc9u2llvif1v1mj6u2p6hqt8nue40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
